@@ -8,10 +8,10 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello, World!");
 
-            foreach (var arg in args)
-            {
-                Console.WriteLine($"Argument: {arg}");
-            }
+            // foreach (var arg in args)
+            // {
+            //     Console.WriteLine($"Argument: {arg}");
+            // }
         }
     }
 }
